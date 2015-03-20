@@ -32,9 +32,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2C2928C31A89883900C6576E /* NSConfArg2015Handoff.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = NSConfArg2015Handoff.entitlements; sourceTree = "<group>"; };
 		2C2928C51A898E3800C6576E /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
 		2C2928C61A898E3800C6576E /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+		2CC24C901ABC6E2700D141E4 /* NSConfArg2015Handoff.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = NSConfArg2015Handoff.entitlements; sourceTree = "<group>"; };
 		2CF0386C1A82BC8700CA1BAE /* NSConfArg2015Handoff.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NSConfArg2015Handoff.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CF038701A82BC8700CA1BAE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2CF038711A82BC8700CA1BAE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -107,7 +107,7 @@
 		2CF0386E1A82BC8700CA1BAE /* NSConfArg2015Handoff */ = {
 			isa = PBXGroup;
 			children = (
-				2C2928C31A89883900C6576E /* NSConfArg2015Handoff.entitlements */,
+				2CC24C901ABC6E2700D141E4 /* NSConfArg2015Handoff.entitlements */,
 				2C2928C41A898E1F00C6576E /* MBProgressHUD */,
 				2CF038A01A83CC6E00CA1BAE /* Model */,
 				2CF038731A82BC8700CA1BAE /* AppDelegate.h */,

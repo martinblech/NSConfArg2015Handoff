@@ -12,8 +12,9 @@
 
 @property (nonatomic, copy) NSString *title;
 @property (nonatomic, copy) NSString *speakerName;
+@property (nonatomic, copy) NSString *time;
 
-- (instancetype)initWithTitle:(NSString *)title speakerName:(NSString *)speakerName;
+- (instancetype)initWithTitle:(NSString *)title speakerName:(NSString *)speakerName time:(NSString *)time;
 
 + (NSArray *)defaultTalks;
 

@@ -67,7 +67,7 @@
     Talk *talk = self.talks[indexPath.row];
     
     cell.textLabel.text = talk.title;
-    cell.detailTextLabel.text = talk.speakerName;
+    cell.detailTextLabel.text = [NSString stringWithFormat:@"%@ – %@", talk.time, talk.speakerName];
     
     return cell;
 }
